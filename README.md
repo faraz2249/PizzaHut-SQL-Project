@@ -50,7 +50,6 @@ This project analyzes PizzaHut's sales data to uncover insights into revenue pat
 - CSV Files
 
 ## 🧑‍💻 Author
-**Moh Ahamad**  
-Aspiring Data Analyst  
-📧 work.ahamad925@gmail.com  
+**Mohd Faraz**
+📧 mdfaraz1182@gmail.com  
 
