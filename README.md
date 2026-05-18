@@ -1,4 +1,4 @@
-# PizzaHut-SQL-Project-
+# PizzaHut-Sales-Analytics
 An end-to-end SQL project analyzing PizzaHut sales data using MySQL. Includes insights on revenue, order trends, and customer preferences.
 
 # 🍕 PizzaHut Sales Analysis using SQL
